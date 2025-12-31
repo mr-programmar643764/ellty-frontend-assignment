@@ -103,7 +103,7 @@ ellty-round-1/
 4. Vercel will automatically detect Next.js and configure the build settings
 5. Click "Deploy"
 
-Your site will be live at: `https://your-project-name.vercel.app`
+Your site will be live at: `https://ellty-frontend-assignment-gray.vercel.app`
 
 ### Deploy to Netlify
 
