@@ -2,6 +2,10 @@
 
 This is a pixel-perfect replication of a component from Figma design, built with Next.js, React, and Tailwind CSS.
 
+## 🌐 Live Demo
+
+**[View Live Demo](https://ellty-frontend-assignment-gray.vercel.app/)**
+
 ## 🎯 Project Overview
 
 This project replicates a "Home Card" component with interactive checkboxes and a button, matching the design specifications from the provided Figma file.
